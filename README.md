@@ -1,4 +1,6 @@
-# Spotify Streaming Stats Analyzer
+# Spotify Wrapped
+
+Get your **Spotify Wrapped** any time of year — no need to wait until December!
 
 This script analyzes your Spotify streaming history and displays:
 

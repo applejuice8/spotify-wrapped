@@ -44,7 +44,3 @@ python streaming_stats.py
 
 - The script only includes data from the **current year**.
 - Make sure your JSON file contains fields like `trackName`, `artistName`, `msPlayed`, and `endTime`.
-
-## 🧑‍💻 Author
-
-Created by Colin Leong
